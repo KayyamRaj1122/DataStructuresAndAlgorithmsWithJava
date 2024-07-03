@@ -60,6 +60,9 @@ public class LinkedListCreation {
 		}
 		length++;
 	}
+	public void removelast() {
+		
+	}
 	
 
 }
